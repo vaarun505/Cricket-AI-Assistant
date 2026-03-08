@@ -1,0 +1,8 @@
+[
+  {"ball":1,"speed":138,"line":"off stump","length":"good length","swing":"inswing"},
+  {"ball":2,"speed":140,"line":"outside off","length":"good length","swing":"outswing"},
+  {"ball":3,"speed":136,"line":"middle","length":"short","swing":"none"},
+  {"ball":4,"speed":139,"line":"off stump","length":"good length","swing":"inswing"},
+  {"ball":5,"speed":137,"line":"outside off","length":"full","swing":"outswing"},
+  {"ball":6,"speed":141,"line":"off stump","length":"good length","swing":"none"}
+]
