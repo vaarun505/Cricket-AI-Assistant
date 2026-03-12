@@ -1,0 +1,813 @@
+[
+  {
+    "text": "Shivam Dube bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan attempts a cover drive but fails to score.",
+    "metadata": {
+      "over": 1,
+      "ball": 1,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Shivam Dube delivers a good length ball outside off stump. Sahibzada Farhan plays a defensive push.",
+    "metadata": {
+      "over": 1,
+      "ball": 2,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "defensive_push"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a good length delivery outside off stump. Farhan attempts a defensive push and is beaten.",
+    "metadata": {
+      "over": 1,
+      "ball": 3,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "defensive_push"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a short of good length ball outside off stump. Farhan steps down and defends.",
+    "metadata": {
+      "over": 1,
+      "ball": 4,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "short_of_length",
+      "shot_type": "defensive"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a full length delivery outside off stump. Sahibzada Farhan lofts it over long-on for four runs.",
+    "metadata": {
+      "over": 1,
+      "ball": 5,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "full_length",
+      "shot_type": "lofted_drive"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a good length ball outside off stump. Farhan defends off the back foot.",
+    "metadata": {
+      "over": 1,
+      "ball": 6,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_defence"
+    }
+  }
+]
+[
+  {
+    "text": "Jasprit Bumrah bowls a good length delivery on off stump to Fakhar Zaman. Fakhar flicks on the front foot and a leg bye is taken.",
+    "metadata": {
+      "over": 2,
+      "ball": 1,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "leg_bye",
+      "ball_type": "good_length",
+      "shot_type": "front_foot_flick"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah delivers a good length ball outside off stump to Sahibzada Farhan. Farhan attempts an aggressive cover drive but is beaten.",
+    "metadata": {
+      "over": 2,
+      "ball": 2,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan again attempts a cover drive and misses the ball.",
+    "metadata": {
+      "over": 2,
+      "ball": 3,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a good length ball outside off stump to Sahibzada Farhan. Farhan flicks aggressively on the front foot and takes two runs toward deep backward square leg.",
+    "metadata": {
+      "over": 2,
+      "ball": 4,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "good_length",
+      "shot_type": "front_foot_flick"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a full length ball outside off stump to Sahibzada Farhan. Farhan lofts the ball powerfully over cover for a boundary.",
+    "metadata": {
+      "over": 2,
+      "ball": 5,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "full_length",
+      "shot_type": "lofted_drive"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a good length ball outside off stump to Sahibzada Farhan. Farhan attempts a slog shot but is beaten.",
+    "metadata": {
+      "over": 2,
+      "ball": 6,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "slog"
+    }
+  }
+]
+[
+  {
+    "text": "Shivam Dube bowls a good length delivery on off stump to Fakhar Zaman. Fakhar plays an aggressive off drive on the front foot and takes a single toward mid-off.",
+    "metadata": {
+      "over": 3,
+      "ball": 1,
+      "bowler": "Shivam Dube",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "off_drive"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a good length ball outside off stump to Sahibzada Farhan. Farhan pushes defensively off the back foot and takes a single toward extra cover.",
+    "metadata": {
+      "over": 3,
+      "ball": 2,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Shivam Dube delivers a full toss outside off stump to Fakhar Zaman. Fakhar steps down the pitch and drives aggressively toward mid-on for a single.",
+    "metadata": {
+      "over": 3,
+      "ball": 3,
+      "bowler": "Shivam Dube",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "full_toss",
+      "shot_type": "on_drive"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a full length delivery outside off stump to Sahibzada Farhan. Farhan attempts an aggressive cover drive and takes a single.",
+    "metadata": {
+      "over": 3,
+      "ball": 4,
+      "bowler": "Shivam Dube",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "full_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a full length ball outside off stump to Fakhar Zaman. Fakhar plays an aggressive cut shot but hits it straight to the fielder at forward point.",
+    "metadata": {
+      "over": 3,
+      "ball": 5,
+      "bowler": "Shivam Dube",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "full_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Shivam Dube bowls a short length ball outside leg stump to Fakhar Zaman. Fakhar creates room and upper cuts the ball using the pace for a boundary.",
+    "metadata": {
+      "over": 3,
+      "ball": 6,
+      "bowler": "Shivam Dube",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "short_length",
+      "shot_type": "upper_cut"
+    }
+  }
+]
+[
+  {
+    "text": "Jasprit Bumrah bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan gets inside the line and pulls the ball over mid-wicket for a boundary.",
+    "metadata": {
+      "over": 4,
+      "ball": 1,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "good_length",
+      "shot_type": "pull_shot"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a short of good length ball outside off stump to Sahibzada Farhan. Farhan attempts an aggressive cut shot but hits it straight to the fielder at cover point.",
+    "metadata": {
+      "over": 4,
+      "ball": 2,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "short_of_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a good length ball outside off stump to Sahibzada Farhan. Farhan moves across the stumps and lofts the ball over long-off for a six.",
+    "metadata": {
+      "over": 4,
+      "ball": 3,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 6,
+      "event": "six",
+      "ball_type": "good_length",
+      "shot_type": "lofted_drive"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah delivers a full length ball outside off stump to Sahibzada Farhan. Farhan plays an aggressive off drive on the front foot and takes a single toward mid-off.",
+    "metadata": {
+      "over": 4,
+      "ball": 4,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "full_length",
+      "shot_type": "off_drive"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a good length ball outside off stump to Fakhar Zaman. Fakhar plays a forward defensive shot and a bye is taken.",
+    "metadata": {
+      "over": 4,
+      "ball": 5,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "bye",
+      "ball_type": "good_length",
+      "shot_type": "forward_defence"
+    }
+  },
+  {
+    "text": "Jasprit Bumrah bowls a full toss on off stump to Sahibzada Farhan. Farhan drives on the front foot toward mid-off for a single.",
+    "metadata": {
+      "over": 4,
+      "ball": 6,
+      "bowler": "Jasprit Bumrah",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "full_toss",
+      "shot_type": "off_drive"
+    }
+  }
+]
+[
+  {
+    "text": "Varun Chakaravarthy bowls a short of good length delivery outside off stump to Sahibzada Farhan. Farhan plays a defensive back foot push toward short extra cover and no run is taken.",
+    "metadata": {
+      "over": 5,
+      "ball": 1,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "short_of_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan flicks on the front foot and takes a single toward deep mid-wicket.",
+    "metadata": {
+      "over": 5,
+      "ball": 2,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "front_foot_flick"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a full length delivery outside leg stump to Fakhar Zaman. Fakhar attempts a sweep shot but fails to score.",
+    "metadata": {
+      "over": 5,
+      "ball": 3,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "full_length",
+      "shot_type": "sweep"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length ball outside off stump to Fakhar Zaman. Fakhar plays an uncomfortable cover drive on the front foot and takes two runs.",
+    "metadata": {
+      "over": 5,
+      "ball": 4,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "good_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length delivery outside leg stump to Fakhar Zaman. Fakhar pushes defensively off the back foot and takes a single toward mid-wicket.",
+    "metadata": {
+      "over": 5,
+      "ball": 5,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a short delivery outside off stump to Sahibzada Farhan. Farhan plays an aggressive cut shot and takes a single toward deep extra cover.",
+    "metadata": {
+      "over": 5,
+      "ball": 6,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "short_length",
+      "shot_type": "cut_shot"
+    }
+  }
+]
+[
+  {
+    "text": "Axar Patel bowls a good length delivery on leg stump to Sahibzada Farhan. Farhan attempts an aggressive cut shot but hits it straight to the fielder at extra cover.",
+    "metadata": {
+      "over": 6,
+      "ball": 1,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan plays a defensive back foot push and no run is taken.",
+    "metadata": {
+      "over": 6,
+      "ball": 2,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a short length ball outside off stump to Sahibzada Farhan. Farhan plays an aggressive pull shot off the back foot and takes a single.",
+    "metadata": {
+      "over": 6,
+      "ball": 3,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "short_length",
+      "shot_type": "pull_shot"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length ball outside leg stump to Fakhar Zaman. Fakhar flicks aggressively on the front foot and takes two runs toward deep mid-wicket.",
+    "metadata": {
+      "over": 6,
+      "ball": 4,
+      "bowler": "Axar Patel",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "good_length",
+      "shot_type": "front_foot_flick"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length delivery on leg stump to Fakhar Zaman. Fakhar plays a sweep shot and takes a single toward deep mid-wicket.",
+    "metadata": {
+      "over": 6,
+      "ball": 5,
+      "bowler": "Axar Patel",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "sweep"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a short length delivery outside off stump to Sahibzada Farhan. Farhan creates room and lofts the ball over mid-off for a boundary.",
+    "metadata": {
+      "over": 6,
+      "ball": 6,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "short_length",
+      "shot_type": "lofted_drive"
+    }
+  }
+]
+[
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery outside off stump to Fakhar Zaman. Fakhar plays an aggressive on drive off the back foot and takes a single.",
+    "metadata": {
+      "over": 7,
+      "ball": 1,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "on_drive"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length ball outside leg stump to Sahibzada Farhan. Farhan pushes defensively off the back foot and takes a single toward short mid-wicket.",
+    "metadata": {
+      "over": 7,
+      "ball": 2,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a full length delivery on off stump to Fakhar Zaman. Fakhar flicks aggressively on the front foot and takes a single toward deep forward square leg.",
+    "metadata": {
+      "over": 7,
+      "ball": 3,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "full_length",
+      "shot_type": "front_foot_flick"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery outside leg stump to Sahibzada Farhan. Farhan steps down the pitch and defends the ball toward short mid-wicket with no run.",
+    "metadata": {
+      "over": 7,
+      "ball": 4,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "defensive"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a short length ball on leg stump to Sahibzada Farhan. Farhan plays an aggressive pull shot off the back foot and takes two runs.",
+    "metadata": {
+      "over": 7,
+      "ball": 5,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "short_length",
+      "shot_type": "pull_shot"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a short delivery outside leg stump to Sahibzada Farhan. Farhan waits on the back foot and lofts the ball over square leg for a six.",
+    "metadata": {
+      "over": 7,
+      "ball": 6,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 6,
+      "event": "six",
+      "ball_type": "short_length",
+      "shot_type": "lofted_shot"
+    }
+  }
+]
+[
+  {
+    "text": "Axar Patel bowls a good length delivery on leg stump to Fakhar Zaman. Fakhar plays a sweep shot and takes a single toward deep forward square leg.",
+    "metadata": {
+      "over": 8,
+      "ball": 1,
+      "bowler": "Axar Patel",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "sweep"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a short length delivery outside off stump to Sahibzada Farhan. Farhan plays an aggressive back-foot cover drive and takes two runs toward wide long-off.",
+    "metadata": {
+      "over": 8,
+      "ball": 2,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "short_length",
+      "shot_type": "cover_drive"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length ball outside off stump to Sahibzada Farhan. Farhan attempts an aggressive cut shot but hits it straight to the fielder at cover point.",
+    "metadata": {
+      "over": 8,
+      "ball": 3,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan reaches the ball and slog-sweeps it wide of long-on for a boundary.",
+    "metadata": {
+      "over": 8,
+      "ball": 4,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 4,
+      "event": "boundary",
+      "ball_type": "good_length",
+      "shot_type": "slog_sweep"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length ball outside off stump to Sahibzada Farhan. Farhan plays a defensive back-foot push and takes a single toward long-on.",
+    "metadata": {
+      "over": 8,
+      "ball": 5,
+      "bowler": "Axar Patel",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "backfoot_push"
+    }
+  },
+  {
+    "text": "Axar Patel bowls a good length delivery outside off stump to Fakhar Zaman. Fakhar attempts an aggressive cut shot but is beaten.",
+    "metadata": {
+      "over": 8,
+      "ball": 6,
+      "bowler": "Axar Patel",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cut_shot"
+    }
+  }
+]
+[
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan leaves the ball and a wide is called.",
+    "metadata": {
+      "over": 9,
+      "ball": 1,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "wide",
+      "ball_type": "good_length",
+      "shot_type": "leave"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length ball on leg stump to Sahibzada Farhan. Farhan plays an on drive off the back foot and takes a single toward long-on.",
+    "metadata": {
+      "over": 9,
+      "ball": 1,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "on_drive"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a full length delivery on middle stump to Fakhar Zaman. Fakhar gets down on one knee and sweeps the ball over mid-wicket for a six.",
+    "metadata": {
+      "over": 9,
+      "ball": 2,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 6,
+      "event": "six",
+      "ball_type": "full_length",
+      "shot_type": "sweep"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery on leg stump to Fakhar Zaman. Fakhar steps down and attempts an on drive and a leg bye is taken.",
+    "metadata": {
+      "over": 9,
+      "ball": 3,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "leg_bye",
+      "ball_type": "good_length",
+      "shot_type": "on_drive"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length ball outside off stump to Sahibzada Farhan. Farhan cuts the ball to point and takes two runs to reach his fifty.",
+    "metadata": {
+      "over": 9,
+      "ball": 4,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "good_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery outside leg stump to Sahibzada Farhan. Farhan steps down the pitch and drives toward short mid-wicket for a single.",
+    "metadata": {
+      "over": 9,
+      "ball": 5,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "on_drive"
+    }
+  },
+  {
+    "text": "Kuldeep Yadav bowls a good length delivery on off stump to Fakhar Zaman. Fakhar flicks the ball on the front foot and takes a single toward deep mid-wicket.",
+    "metadata": {
+      "over": 9,
+      "ball": 6,
+      "bowler": "Kuldeep Yadav",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "front_foot_flick"
+    }
+  }
+]
+[
+  {
+    "text": "Varun Chakaravarthy bowls a good length delivery outside off stump to Fakhar Zaman. Fakhar plays an aggressive cut shot but hits it straight to the fielder at covers.",
+    "metadata": {
+      "over": 10,
+      "ball": 1,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 0,
+      "event": "dot_ball",
+      "ball_type": "good_length",
+      "shot_type": "cut_shot"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length ball outside off stump to Fakhar Zaman. Fakhar drives aggressively on the front foot toward long-off for a single.",
+    "metadata": {
+      "over": 10,
+      "ball": 2,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "off_drive"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length delivery outside off stump to Sahibzada Farhan. Farhan lofts the ball high over long-on for a six.",
+    "metadata": {
+      "over": 10,
+      "ball": 3,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 6,
+      "event": "six",
+      "ball_type": "good_length",
+      "shot_type": "lofted_shot"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a short length delivery outside off stump to Sahibzada Farhan. Farhan attempts a lofted shot over mid-wicket but mistimes it and is caught by Tilak Varma.",
+    "metadata": {
+      "over": 10,
+      "ball": 4,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Sahibzada Farhan",
+      "runs_scored": 0,
+      "event": "wicket",
+      "ball_type": "short_length",
+      "shot_type": "lofted_shot"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a good length delivery outside off stump to Saim Ayub. Ayub plays a defensive forward push and takes a single toward mid-wicket.",
+    "metadata": {
+      "over": 10,
+      "ball": 5,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Saim Ayub",
+      "runs_scored": 1,
+      "event": "single",
+      "ball_type": "good_length",
+      "shot_type": "forward_push"
+    }
+  },
+  {
+    "text": "Varun Chakaravarthy bowls a full length ball on leg stump to Fakhar Zaman. Fakhar plays a scoop shot and takes two runs toward long leg.",
+    "metadata": {
+      "over": 10,
+      "ball": 6,
+      "bowler": "Varun Chakaravarthy",
+      "batsman": "Fakhar Zaman",
+      "runs_scored": 2,
+      "event": "double",
+      "ball_type": "full_length",
+      "shot_type": "scoop"
+    }
+  }
+]
